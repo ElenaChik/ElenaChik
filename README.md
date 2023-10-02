@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here I show some of my projects:
 
-#### Library Management System | DESKTOP App
+Library Management System | DESKTOP App
 | Java | Desktop App | MySQL | JUnit Testing |  <br/>
 Complete basic software to manage a Library. <br/>
  https://github.com/ElenaChik/LibraryManagementSystem_DesktopApp 
