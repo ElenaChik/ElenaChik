@@ -1,10 +1,11 @@
 ### Hi there 👋
 Here I show some of my projects:
 
-Library Management System | DESKTOP App
+<a href="https://github.com/ElenaChik/LibraryManagementSystem_DesktopApp">Library Management System | DESKTOP App</a>
+
 | Java | Desktop App | MySQL | JUnit Testing |  <br/>
 Complete basic software to manage a Library. <br/>
- https://github.com/ElenaChik/LibraryManagementSystem_DesktopApp 
+ 
 
 #### Library Management System | WEB App 
 | Java | Web App | REST/SOAP API| Java Client App | Payara | MySQL | Postman tested | <br/>
