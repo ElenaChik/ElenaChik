@@ -4,20 +4,19 @@ Here I show some of my projects:
 <a href="https://github.com/ElenaChik/LibraryManagementSystem_DesktopApp">Library Management System | DESKTOP App</a>
 
 | Java | Desktop App | MySQL | JUnit Testing |  <br/>
-Complete basic software to manage a Library. <br/>
+Complete basic software to manage a Library. <br/><br/>
  
-
-#### Library Management System | WEB App 
+<a href="https://github.com/ElenaChik/LibraryManagementSystemWEB_REST_SOAP_API">Library Management System | WEB App </a>
 | Java | Web App | REST/SOAP API| Java Client App | Payara | MySQL | Postman tested | <br/>
-https://github.com/ElenaChik/LibraryManagementSystemWEB_REST_SOAP_API 
+ <br/>
 
-#### Fencing Club Management System | DESKTOP App
+<a href="https://github.com/ElenaChik/FencingClub_ManagementSystem">Fencing Club Management System | DESKTOP App</a>
 | C# | Desktop App | WPF | REST API| PostgreSQL | NUnit Testing | <br/>
-https://github.com/ElenaChik/FencingClub_ManagementSystem 
+ <br/>
 
-#### College HR Management System | DESKTOP App
+<a href="https://github.com/ElenaChik/CollegeHR_ManagementSystem <br/>">College HR Management System | DESKTOP App</a>
 | Java | Desktop App | Swing | MySQL |  <br/>
-https://github.com/ElenaChik/CollegeHR_ManagementSystem 
+
 
 
 <!--
